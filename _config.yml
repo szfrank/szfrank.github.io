@@ -1,10 +1,10 @@
 # Site settings
 title: Frank Yu's Blog
-SEOTitle: 法兰克的博客 | Frank Yu's Blog
+SEOTitle: Frank Yu's Blog
 header-img: img/post-bg-desk.jpg
 email: imzhixun@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, Frank Yu's Blog, 法兰克的博客, Yuzhixun, iOS, Apple, iPhone"
+keyword: "Yzx, Frank Yu's Blog, Yuzhixun, PHP, Flutter, Apple, iPhone"
 url: "http://ifrankyu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ifrankyu/ifrankyu.github.io.git" # you code repository
