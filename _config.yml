@@ -57,16 +57,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: Yuzhixun
+# disqus_username: frankyu
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: Yuzhixun.github.io    #仓库名称
-  owner: Yuzhixun    #github用户名
-  admin: Yuzhixun
+  enable: false    #是否开启Gitalk评论
+  clientID: xxxx   #生成的clientID
+  clientSecret: x  #生成的clientSecret
+  repo: ifrankyu.github.io    #仓库名称
+  owner: frankyu    #github用户名
+  admin: frankyu
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: xxxxxxxxx
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: Yuzhixun.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-90855596xxx-1'            # Format: UA-xxxxxx-xx
+ga_domain: ifrankyu.github.io              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,14 +99,15 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Github.Frank",
+        href: "https://github.com/ifrankyu"
+    },
+    {
+        title: "简书·Frank",
+        href: "https://www.jianshu.com/u/87ed2f9eb91b"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Flutter",
+        href: "https://flutter.dev/"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
