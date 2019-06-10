@@ -61,9 +61,9 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
-  clientID: xxxx   #生成的clientID
-  clientSecret: x  #生成的clientSecret
+  enable: true    #是否开启Gitalk评论
+  clientID: 6e8cfac81df3bb22b7c4   #生成的clientID
+  clientSecret: 8c16700e24fbceeea0b29be4f974e6b1a49a1082  #生成的clientSecret
   repo: ifrankyu.github.io    #仓库名称
   owner: frankyu    #github用户名
   admin: frankyu
