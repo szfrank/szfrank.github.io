@@ -3,7 +3,7 @@ layout:     post
 title:      随便聊聊
 subtitle:   2016 第一篇博客文章~ 
 date:       2016-01-01
-author:     BY
+author:     Frank Yu
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
