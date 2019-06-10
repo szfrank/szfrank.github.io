@@ -65,8 +65,8 @@ gitalk:
   clientID: 6e8cfac81df3bb22b7c4   #生成的clientID
   clientSecret: 8c16700e24fbceeea0b29be4f974e6b1a49a1082  #生成的clientSecret
   repo: ifrankyu.github.io    #仓库名称
-  owner: frankyu    #github用户名
-  admin: frankyu
+  owner: ifrankyu    #github用户名
+  admin: ifrankyu
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
