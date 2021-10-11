@@ -2,7 +2,7 @@
 layout:     post
 title:      过去两天经历的生活小黑暗
 subtitle:   情绪管理
-date:       2019-05-29
+date:       2021-10-11
 author:     Frank
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
