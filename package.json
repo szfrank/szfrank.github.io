@@ -3,12 +3,12 @@
     "title": "Frank Yu's Blog",
     "author": "Frank Yu <imzhixun@gmail.com>",
     "version": "1.7.0",
-    "homepage": "http://ifrankyu.github.io",
+    "homepage": "http://szfrank.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ifrankyu/ifrankyu.github.io"
+        "url": "https://github.com/szfrank/szfrank.github.io"
     },
-    "bugs": "https://github.com/ifrankyu/ifrankyu.github.io/issues",
+    "bugs": "https://github.com/szfrank/szfrank.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",

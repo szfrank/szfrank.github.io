@@ -1,13 +1,13 @@
 # Site settings
-title: Frank Yu's Blog
-SEOTitle: Frank Yu's Blog
+title: Frank's Blog
+SEOTitle: Frank's Blog
 header-img: img/post-bg-desk.jpg
 email: imzhixun@gmail.com
 description: "Every failure is leading towards success."
-keyword: "Yzx, Frank Yu's Blog, Yuzhixun, PHP, Flutter, Apple, iPhone"
-url: "http://ifrankyu.github.io"          # your host, for absolute URL
+keyword: "Yzx, Frank's Blog, Yuzhixun, PHP, Flutter, Apple, iPhone"
+url: "http://szfrank.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/ifrankyu/ifrankyu.github.io.git" # you code repository
+github_repo: "https://github.com/szfrank/szfrank.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,9 +20,9 @@ sidebar-avatar: /img/about-frank-gentle.jpg      # use absolute URL, seeing it's
 RSS: false
 # weibo_username:     Yuzhixun
 zhihu_username:     yuzhixun
-github_username:    ifrankyu
+github_username:    szfrank
 facebook_username:  ifrankyu
-jianshu_username:   e71990ada2fd
+jianshu_username:   87ed2f9eb91b
 #twitter_username:   Yuzhixun
 
 
@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 6e8cfac81df3bb22b7c4   #生成的clientID
   clientSecret: 8c16700e24fbceeea0b29be4f974e6b1a49a1082  #生成的clientSecret
-  repo: ifrankyu.github.io    #仓库名称
+  repo: szfrank.github.io    #仓库名称
   owner: ifrankyu    #github用户名
   admin: ifrankyu
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
@@ -78,7 +78,7 @@ ba_track_id: xxxxxxxxx
 
 # Google Analytics
 ga_track_id: 'UA-90855596xxx-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto # ifrankyu.github.io 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto # szfrank.github.io 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "Github.Frank",
-        href: "https://github.com/ifrankyu"
+        href: "https://github.com/szfrank"
     },
     {
         title: "简书·Frank",
