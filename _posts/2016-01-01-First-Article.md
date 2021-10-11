@@ -17,13 +17,13 @@ tags:
 
 ## 前言
 
-Frank(Yzx) 's Blog 就这么开通了。
+Frank(Frank) 's Blog 就这么开通了。
 
 本来打算在年前完成 Blog 的搭建，不曾料想踩了很多坑。。。
 
 [跳过废话，直接看技术实现 ](#build) 
 
-2017 年，Frank(Yzx) Blog 总算是搭建好了。
+2017 年，Frank(Frank) Blog 总算是搭建好了。
 
 最开始写博客是在[简书](www.jianshu.com)这个平台上，简书确实不错，支持markdown在线编辑。
 

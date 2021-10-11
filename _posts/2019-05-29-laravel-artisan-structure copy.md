@@ -3,7 +3,7 @@ layout:     post
 title:      Laravel artisan structure - 打造优雅弹性可扩展的架构
 subtitle:   Laravel artisan structure
 date:       2019-05-29
-author:     Yzx
+author:     Frank
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
