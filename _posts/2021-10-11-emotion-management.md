@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      过去两天经历的生活小黑暗
+title:      情绪管理
 subtitle:   情绪管理
 date:       2021-10-11
 author:     Frank
