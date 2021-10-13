@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: frankyu
+# disqus_username: szfrank
 
 # Gitalk
 gitalk:
@@ -65,8 +65,8 @@ gitalk:
   clientID: 6e8cfac81df3bb22b7c4   #生成的clientID
   clientSecret: 8c16700e24fbceeea0b29be4f974e6b1a49a1082  #生成的clientSecret
   repo: szfrank.github.io    #仓库名称
-  owner: ifrankyu    #github用户名
-  admin: ifrankyu
+  owner: szfrank    #github用户名
+  admin: szfrank
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 

@@ -101,7 +101,7 @@ Pod::Spec.new do |s|
   # s.dependency   = "AFNetworking" # 依赖库
   
   # User
-  s.author             = { "BY" => "ifrankyuios@163.com" } # 作者信息
+  s.author             = { "BY" => "imzhixun@gmail.com" } # 作者信息
   s.social_media_url   = "http://szfrank.github.io" # 个人主页
 
 end
